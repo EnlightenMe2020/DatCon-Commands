@@ -1,2 +1,2 @@
 # DatCon-Commands
-LM-Q720
+LM-K500MM
